@@ -1,6 +1,6 @@
 {
   "name": "any-currency",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Not an actual converter",
   "main": "index.js",
   "scripts": {
