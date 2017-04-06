@@ -1,0 +1,19 @@
+{
+  "name": "any-currency",
+  "version": "1.0.0",
+  "description": "Not an actual converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nick-nyllabs/currencyConversion.git"
+  },
+  "author": "Nick Palenchar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nick-nyllabs/currencyConversion/issues"
+  },
+  "homepage": "https://github.com/nick-nyllabs/currencyConversion#readme"
+}
